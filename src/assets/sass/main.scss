@@ -1,0 +1,99 @@
+
+.xy{
+	background-image: url('../Images/100.png');
+	height: 250px;
+	width: 420px;
+    background-repeat: no-repeat;
+	background-size: cover;
+	margin: 10rem 24rem;
+	border-radius: 15px;	
+}
+
+.c{
+	background-color: rgb(87, 0, 201) !important;
+	display: grid;
+	grid-template-columns: auto auto;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	h1{
+		color: white;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-weight: 100;
+		margin-top: 8px;
+		margin-bottom: -2px;
+		margin-left: 10px;
+		margin-right: 6px;
+	}
+	p{
+		color: white;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-weight: 900;
+		margin-top: -3px;
+		margin-left: 78px;
+		margin-bottom: -3px;
+	}
+}
+.d{
+	border-right: rgba(255, 255, 255, 0.74) dotted 3px;
+	img{
+		margin-top: 5px;
+		margin-bottom: -2px;
+		margin-left: 6px;
+		margin-right: 3px;
+		height: 64px; 
+		width: auto;
+	}
+}
+.e{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	p{
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-weight: 600;
+		font-size: 10px;
+	}
+	h1{
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-weight: 900;
+		font-size: 20px;
+		margin-top: -10px;
+		margin-bottom: -4px;
+	}
+	h2{
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-weight: 600;
+		font-size: 8px;
+	}
+	h3{
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-weight: 600;
+		font-size: 14px;
+		margin-top: -7px;
+	}
+    
+}
+.f{
+	display: grid;
+	grid-template-columns: auto auto;
+}
+.g{
+	img{
+		height: 150px;
+		width: auto;
+		margin: 14px;
+	}
+}
+.h{
+	margin-right: 14px;
+	text-align: right !important;
+	h1{
+		margin-bottom: 3px;
+	}
+	img{
+		width: 100px;
+		height: auto;
+	}
+}
+.i{
+	margin-right: 15px;
+}
